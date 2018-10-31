@@ -1,3 +1,4 @@
+<h1>my-react-awesome</h1>
 To setup the project follow these steps:
 
 ```bash
