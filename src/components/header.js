@@ -1,9 +1,10 @@
-import React from 'react'
-import { Header } from 'semantic-ui-react'
+import React from "react";
+import { Header } from "semantic-ui-react";
 
 export const PageHeader = () => (
   <div>
-    <Header as='h1' className="pageHeader">This is my React Awesome Library!</Header> 
+    <Header as="h1" className="pageHeader">
+      This is my React Awesome Library! (Dark Theme){" "}
+    </Header>
   </div>
-)
-
+);

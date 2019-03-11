@@ -15,7 +15,7 @@ export class HelloWorld extends Component{
         return(
             <div className="box">
                 <Header as='h2' attached='top'>
-                    Hello World
+                   Currently Playing . . .
                 </Header>
                 <Segment attached>
                     This moment : {this.state.time}
